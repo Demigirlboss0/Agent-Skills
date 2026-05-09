@@ -1,2 +1,2 @@
-# Agent-Skills
-A repo of Skills I've made for my own use in various projects, that I've found to be useful enough to want to share
+# Agent Skills
+A repo of Skills I've made for my own use in various projects, that I've found to be useful enough to want to share. These are, of course, provided "as-is", without any form of warranty, you've read the license I'm sure, but I've found them to improve the outputs of my own agents in specific usecases enough that I think they're worth putting out there. If you use these Skills, and make any alterations that you feel improve the quality of their outputs, I'd love it if you could put in a PR with some information about what you changed and how it affected capabilities.
